@@ -1,6 +1,6 @@
 # Lava Jump
 ## Overview
-### Lava Jump is a 2D bullet-hell platformer that was developed for the 2021-2022 FBLA Computer Game and Simulation Development competition using the Unity game engine.
+### Lava Jump is a 2D bullet-hell platformer that was developed using the Unity game engine.
 
 ![unnamed](https://user-images.githubusercontent.com/90011814/176550403-5ab6c6df-8fa5-40fd-93f0-8e3e48e807f2.png)
 ## Download 
